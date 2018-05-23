@@ -1,4 +1,4 @@
-update=2018年02月17日 土曜日 16:47:04
+update=2018年04月18日 水曜日 13:27:19
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=/Volumes/TOSHIBA/work/KiCad/mylib/ss49e
 LibName31=/Volumes/TOSHIBA/work/KiCad/mylib/inductor
 LibName32=/Volumes/TOSHIBA/work/KiCad/mylib/mh7601
 LibName33=/Volumes/TOSHIBA/work/KiCad/mylib/sw
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
